@@ -39,3 +39,13 @@
 
 # debug information files
 *.dwo
+
+# Exclude some lib folders
+libraries/ESP32-audioI2S-master/examples/*
+libraries/ESP32-audioI2S-master/.github
+libraries/ESP32-audioI2S-master/additional_info
+libraries/lvgl/examples/*
+libraries/lvgl/docs/*
+libraries/lvgl/demos/*
+libraries/lvgl/tests/*
+libraries/lvgl/scripts/*
